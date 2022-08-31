@@ -1,4 +1,4 @@
-import { Hero, Navbar } from './components';
+import { Hero, Navbar, Stats } from './components';
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
@@ -11,6 +11,12 @@ const App = () => (
     <div className="bg-primary flex justify-center items-start">
       <div className="box-width">
         <Hero />
+      </div>
+    </div>
+
+    <div className="bg-primary flex justify-center items-center sm:px-16 px-6">
+      <div className="box-width">
+        <Stats />
       </div>
     </div>
   </div>
