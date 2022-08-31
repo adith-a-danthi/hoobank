@@ -4,3 +4,6 @@ export { default as menu } from './menu.svg';
 export { default as discount } from './discount.svg';
 export { default as arrowUp } from './arrow-up.svg';
 export { default as robot } from './robot.png';
+export { default as send } from './send.svg';
+export { default as shield } from './shield.svg';
+export { default as star } from './star.svg';
