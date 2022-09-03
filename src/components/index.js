@@ -10,3 +10,4 @@ export { default as CardDeal } from './CardDeal';
 export { default as Product } from './Product';
 export { default as Testimonials } from './Testimonials';
 export { default as Clients } from './Clients';
+export { default as CTA } from './CTA';
