@@ -5,7 +5,7 @@ const Features = () => {
   return (
     <section id="features" className="flex flex-col md:flex-row sm:py-16 py-6">
       <div className="flex justify-center items-start flex-col">
-        <h2 className="font-semibold text-white xs:text-5xl text-[40px] xs:leading-relaxed leading-normal">
+        <h2 className="heading-2 text-white">
           You do the business, <br className="sm:block hidden" /> we&apos;ll handle the money
         </h2>
         <p className="font-normal text-lg leading-8 text-white max-w-screen-xs mt-5">

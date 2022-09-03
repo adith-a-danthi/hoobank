@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="flex flex-1 flex-col justify-center items-start xl:px-0 sm:px-16 px-6">
         <div className="flex flex-row items-center py-2 px-4 bg-gradient-to-r from-zinc-800 to-zinc-900 rounded-lg mb-2">
           <img src={discount} alt="discount" className="w-8 h-8 mr-2" />
-          <p className="text-dimWhite font-normal text-lg leading-8">
+          <p className="text-dimWhite paragraph">
             <span className="text-white">20%</span> Discount For{' '}
             <span className="text-white">1 Month</span> Account
           </p>
@@ -26,7 +26,7 @@ const Hero = () => {
         <h1 className="font-semibold ss:text-[70px] text-6xl text-white ss:leading-tight leading-snug">
           Payment Method.
         </h1>
-        <p className="text-dimWhite font-normal text-lg leading-8 max-w-screen-xs mt-5">
+        <p className="text-dimWhite paragraph max-w-screen-xs mt-5">
           Our team of experts uses a methodology to identify the credit cards most likely to fit
           your needs. We examine annual percentage rates, annual fees.
         </p>
