@@ -1,4 +1,4 @@
-import { Features, Hero, Navbar, Product, Stats } from './components';
+import { Clients, Features, Hero, Navbar, Product, Stats } from './components';
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
@@ -19,6 +19,7 @@ const App = () => (
         <Stats />
         <Features />
         <Product />
+        <Clients />
       </div>
     </div>
   </div>

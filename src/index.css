@@ -6,7 +6,7 @@
 
 @layer components {
   .box-width {
-    @apply w-full xl:max-w-7xl;
+    @apply w-full xl:max-w-7xl lg:max-w-6xl;
   }
 }
 

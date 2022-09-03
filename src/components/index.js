@@ -8,3 +8,5 @@ export { default as Button } from './Button';
 export { default as Billing } from './Billing';
 export { default as CardDeal } from './CardDeal';
 export { default as Product } from './Product';
+export { default as Testimonials } from './Testimonials';
+export { default as Clients } from './Clients';
